@@ -42,20 +42,12 @@ $(".back").click(function(e){
 });
 
 
-//make database? of uhh idk, use ejs? load hobbies so upload demo ver or just deploy it lol
-//use react? 
-//suggest feautures, set goal.
+//to do
+//switch to react 
+//personalization with welcome, name
+//calendar & time
 //data visualization!
-//add a calendar
-//activity api for ideas for hobbies!! or make your own api perf
-//ooo add more like calendar stuff and random data calculations
-//o maybe a timer
-
-//limitations, whether youve logged for that day
-//have choices of the time
-
-//features
-//personalization like welcome, name
+//hobby suggestions
 
 
 
